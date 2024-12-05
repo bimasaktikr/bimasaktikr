@@ -1,11 +1,11 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Bima Sakti!
 
 I'm a **developer** and **data enthusiast** who loves building impactful software. Here's a bit about me:
 
 ## 🔧 Technologies & Skills
 - **Languages:** Python, JavaScript, PHP
 - **Frameworks:** Laravel, React, Tailwind CSS
-- **Tools:** Git, Docker, Filament, WPPConnect
+- **Tools:** Git, Docker
 
 ## 🌟 Notable Projects
 - **[Organization A - Project A](https://github.com/org-a/project-a):** Designed scalable microservices for X.
@@ -14,6 +14,9 @@ I'm a **developer** and **data enthusiast** who loves building impactful softwar
 ## 🚀 What I'm Working On
 - Building innovative solutions in Laravel & Filament.
 - Exploring machine learning for predictive data analysis.
+
+## ![My GitHub Stats](https://github-readme-stats.vercel.app/api?bimasaktikr&show_icons=true&theme=radical)
+
 
 ## 📫 Get in Touch
 - [Email Me](mailto:youremail@example.com)
