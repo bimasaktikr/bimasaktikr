@@ -15,7 +15,7 @@ I'm a **developer** and **data enthusiast** who loves building impactful softwar
 - Building innovative solutions in Laravel & Filament.
 - Exploring machine learning for predictive data analysis.
 
-## ![My GitHub Stats](https://github-readme-stats.vercel.app/api?bimasaktikr&show_icons=true&theme=radical)
+## ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bimasaktikr&show_icons=true&theme=radical)
 
 
 ## 📫 Get in Touch
