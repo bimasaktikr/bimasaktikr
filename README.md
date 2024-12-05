@@ -8,7 +8,7 @@ I'm a **developer** and **data enthusiast** who loves building impactful softwar
 - **Tools:** Git, Docker
 
 ## 🌟 Notable Projects
-- **[Organization A - Project A](https://github.com/org-a/project-a):** Designed scalable microservices for X.
+- **[Organization BPS Kota Malang](https://github.com/BPS-Kota-Malang):** Designed scalable microservices for X.
 - **[My Portfolio Website](https://myportfolio.com):** A showcase of my work and blog posts.
 
 ## 🚀 What I'm Working On
