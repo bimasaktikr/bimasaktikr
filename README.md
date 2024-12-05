@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**bimasaktikr/bimasaktikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **developer** and **data enthusiast** who loves building impactful software. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Skills
+- **Languages:** Python, JavaScript, PHP
+- **Frameworks:** Laravel, React, Tailwind CSS
+- **Tools:** Git, Docker, Filament, WPPConnect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Notable Projects
+- **[Organization A - Project A](https://github.com/org-a/project-a):** Designed scalable microservices for X.
+- **[My Portfolio Website](https://myportfolio.com):** A showcase of my work and blog posts.
+
+## 🚀 What I'm Working On
+- Building innovative solutions in Laravel & Filament.
+- Exploring machine learning for predictive data analysis.
+
+## 📫 Get in Touch
+- [Email Me](mailto:youremail@example.com)
+- [Connect on LinkedIn](https://linkedin.com/in/your-profile)
+- [Visit My Website](https://mywebsite.com)
